@@ -16,5 +16,4 @@ int main() {
     else if(temperature<=25) {
         cout <<"You don't need an umbrella today, but the weather is cloudy"<<endl;
     }
-    return 0;
 }
